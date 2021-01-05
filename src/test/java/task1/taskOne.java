@@ -27,7 +27,8 @@ public class taskOne
     }
 
     @Test
-    public void addAUser() throws InterruptedException {
+    public void addAUser()
+    {
         driver.get("http://thedemosite.co.uk/");
 
         // Create a User
