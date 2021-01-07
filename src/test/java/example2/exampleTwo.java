@@ -1,4 +1,4 @@
-package task2;
+package example2;
 
 import org.junit.After;
 import org.junit.Before;
@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static org.junit.Assert.assertEquals;
 
-public class taskTwo
+public class exampleTwo
 {
     private WebDriver driver;
 

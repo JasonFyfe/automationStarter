@@ -1,4 +1,4 @@
-package task1;
+package example1;
 
 import org.junit.After;
 import org.junit.Before;
@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.assertEquals;
 
-public class taskOne
+public class exampleOne
 {
     private WebDriver driver;
 

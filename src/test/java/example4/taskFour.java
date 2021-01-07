@@ -1,4 +1,4 @@
-package task4;
+package example4;
 
 import org.junit.After;
 import org.junit.Before;
